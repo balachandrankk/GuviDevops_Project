@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: test
-        image: deepak102/devops
+        image: balachandran2005/devo
         imagePullPolicy: Always
         ports:
         - containerPort: 80
